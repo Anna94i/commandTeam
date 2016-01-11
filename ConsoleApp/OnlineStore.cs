@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    class Program
+    class OnlineStore
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
