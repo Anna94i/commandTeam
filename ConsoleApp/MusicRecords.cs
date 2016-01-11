@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    class MusicRecords
+    public class MusicRecords
     {
-        static void Main(string[] args)
-        {
-        }
+        public string Name {get;set;}
+        public double Time {get; set;}
+        public int NumberOfSingles {get;set;}
     }
 }
